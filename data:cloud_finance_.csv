@@ -1,0 +1,5 @@
+"month,region,product,revenue,infrastructure_cost,margin"
+"2025-01,US,Compute,1200000,700000,500000"
+"2025-01,Europe,Storage,850000,500000,350000"
+"2025-02,US,AI Services,1400000,800000,600000"
+"2025-02,Asia,Compute,900000,550000,350000"
