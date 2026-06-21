@@ -1,0 +1,5 @@
+month,region,product,revenue,infrastructure_cost
+2025-01,US,Compute,1200000,700000
+2025-01,Europe,Storage,850000,500000
+2025-02,Asia,AI Services,950000,550000
+2025-02,US,Compute,1400000,800000
