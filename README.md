@@ -29,3 +29,30 @@ Perform budget vs actual variance analysis
 Forecast future revenue and expenses
 Identify underutilized infrastructure resources
 Support strategic investment decisions
+
+**Dataset**
+
+The dataset contains simulated Google Cloud business data:
+
+Revenue Data
+Revenue
+Product Category
+Customer Segment
+Region
+Subscription Type
+Contract Value
+Infrastructure Data
+Compute Utilization
+Storage Utilization
+Network Usage
+Data Center Costs
+Capacity Allocation
+Resource Consumption
+Financial Metrics
+Budget
+Actual Spend
+Operating Expenses
+Capital Expenditures
+Gross Margin
+EBITDA Contribution
+
