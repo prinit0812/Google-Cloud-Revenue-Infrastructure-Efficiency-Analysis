@@ -7,3 +7,25 @@ This project analyzes Google Cloud revenue performance, infrastructure utilizati
 
 The analysis simulates a Cloud Finance and FP&A workflow similar to what financial analysts at large technology companies perform to evaluate business performance, capacity planning, and profitability.
 
+**Business Problem**
+
+Cloud providers invest billions of dollars in data centers, networking infrastructure, and compute resources. Financial teams must answer critical questions:
+
+Which products drive the highest revenue growth?
+Are infrastructure costs growing faster than revenue?
+Which regions generate the strongest margins?
+How efficiently are cloud resources being utilized?
+Where should future investments be allocated?
+
+This project provides a framework for monitoring financial and operational performance while identifying opportunities to improve profitability and infrastructure efficiency.
+
+
+**Objectives**
+
+Analyze cloud revenue growth trends
+Measure infrastructure cost efficiency
+Evaluate regional profitability
+Perform budget vs actual variance analysis
+Forecast future revenue and expenses
+Identify underutilized infrastructure resources
+Support strategic investment decisions
